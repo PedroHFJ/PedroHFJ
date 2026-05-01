@@ -31,8 +31,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/PedroHFJ/PedroHFJ/output/snake.svg" alt="Snake animation" />
-
-###
